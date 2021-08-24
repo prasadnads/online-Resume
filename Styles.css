@@ -1,0 +1,37 @@
+body {
+  background-color: #364547;
+}
+
+h1 {
+  text-align: center;
+}
+
+
+h3 {
+  text-align: center;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+h1{
+  color:aqua;
+}
+h3{
+  color:aqua;
+}
+h2{
+  color:aqua;
+}
+
+
+hr{
+  border-Style:none;
+  border-style:dotted;
+  border-color:grey;
+  border-width:2px;
+  width:5%;
+
+}
